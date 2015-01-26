@@ -19,6 +19,6 @@ This code has been contributed to and is maintained by the [Apache Olingo](http:
 Questions regarding the libraries and contributions should be sent to the appropriate [mailing list] (http://olingo.apache.org/support.html) over there.
 
 ODataJClient is an Open Source ([Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)) library that 
-enables Java applications to deal with [OData 3.0](http://www.odata.org/documentation/odata-v3-documentation/) services.
+enables Java applications to deal with [OData 3.0](http://www.odata.org/documentation/odata-version-3-0/) services.
 
 Check how to [get started](https://github.com/MSOpenTech/ODataJClient/wiki/User-guide) with ODataJClient.
